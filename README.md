@@ -27,4 +27,5 @@ This project is an interactive quiz application built using HTML, CSS, and JavaS
 - **HTML**: For the structure of the quiz application.
 - **CSS**: For styling the quiz interface and providing a responsive layout.
 - **JavaScript**: For handling quiz logic, including scoring, question navigation, and feedback.
+![image](https://github.com/user-attachments/assets/ee268827-2ac9-4262-8abe-6345265debae)
 
